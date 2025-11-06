@@ -9,10 +9,10 @@ README.md – This document
 
 ✅ How to Run:
 
-Load the CSV files into your Python environment (or SQL environment) as tables (orders, order_items, products).
-Use your database’s import tool or COPY/LOAD DATA command (in case of using in a SQL environment)
-Run the script.
-Review results for each section.
+Load the CSV files into your Python environment (or SQL environment) as tables (orders, order_items, products). <br />
+Use your database’s import tool or COPY/LOAD DATA command (in case of using in a SQL environment) <br />
+Run the script. <br />
+Review results for each section. 
 
 ✅ Assumptions:
 
