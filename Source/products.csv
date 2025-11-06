@@ -1,0 +1,21 @@
+﻿product_id,category,product_name,unit_cost
+-1,Unknown,Unknown,0
+1,Mattress,Mattress,$232.20
+2,Mattress,Plush Mattress,$309.60
+3,Mattress,Firm Mattress,$227.04
+4,Mattress,Hybrid Firm Mattress,$330.24
+5,Mattress,Hybrid Med Firm Mattress,$361.20
+6,Mattress,Hybrid Plush Mattress,$371.52
+7,Furniture,Upholstered Bed,$407.64
+8,Furniture,Wooden Bed 2024,$216.72
+9,Furniture,Wooden Night Stand 2024,$165.12
+10,Accessory,Duvet,$51.60
+11,Accessory,Duvet Cover,$36.12
+12,Accessory,Mattress Protector,$20.64
+13,Accessory,Pillow- Customizable,$20.64
+14,Accessory,Pillow - Everyday,$11.35
+15,Accessory,Pillow- Luxe,$25.80
+16,Accessory,Sheets,$51.60
+17,Accessory,Blanket-Merino Wool,$67.08
+18,Accessory,Bundle,$67.08
+19,Accessory,Enhanced Bundle,$113.52
