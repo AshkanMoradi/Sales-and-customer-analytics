@@ -3,8 +3,8 @@ This project analyzes sales, customer, and product data to derive key business m
 
 ✅ Files Provided:
 
-Ashkan Moradi - Python Version.ipynb – Python notebook < br / >
-Ashkan Moradi - SQL Version.sql – SQL script with all queries
+Ashkan Moradi - Python Version.ipynb – Python notebook <br />
+Ashkan Moradi - SQL Version.sql – SQL script with all queries <br />
 README.md – This document
 
 ✅ How to Run:
