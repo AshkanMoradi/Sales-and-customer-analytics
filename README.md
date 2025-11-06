@@ -1,6 +1,6 @@
  Project Overview:
 
-This project analyzes sales, customer, and product data to derive key business metrics and perform data quality checks.
+###This project analyzes sales, customer, and product data to derive key business metrics and perform data quality checks.
 --------------------------------------------------------------------------
 ✅ Files Provided:
 
