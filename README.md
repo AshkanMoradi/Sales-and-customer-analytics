@@ -1,6 +1,6 @@
- Project Overview:
+Project Overview:
 
-###This project analyzes sales, customer, and product data to derive key business metrics and perform data quality checks.
+This project analyzes sales, customer, and product data to derive key business metrics and perform data quality checks.
 --------------------------------------------------------------------------
 ✅ Files Provided:
 
@@ -11,7 +11,7 @@ README.md – This document
 ✅ How to Run:
 
 Load the CSV files into your Python environment (or SQL environment) as tables (orders, order_items, products).
-Use your database’s import tool or COPY/LOAD DATA command (in case of using in SQL environment)
+Use your database’s import tool or COPY/LOAD DATA command (in case of using in a SQL environment)
 Run the script.
 Review results for each section.
 --------------------------------------------------------------------------
